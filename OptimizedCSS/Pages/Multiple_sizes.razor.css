@@ -14,6 +14,9 @@
     height: max-content;
 }
 .button_1 {
+    height: max-content;
+}
+.button_2 {
     --ig-size: var(--ig-size-small);
     height: max-content;
 }

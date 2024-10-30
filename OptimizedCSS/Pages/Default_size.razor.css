@@ -10,6 +10,5 @@
     height: 100%;
 }
 .button {
-    --ig-size: var(--ig-size-small);
     height: max-content;
 }
